@@ -1,3 +1,4 @@
+image: eu.gcr.io/gitpod-core-dev/dev/dev-environment:pluggable-workspace-cluster.9
 ports:
   - port: 5000
     onOpen: open-preview
